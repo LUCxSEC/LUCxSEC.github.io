@@ -19,7 +19,12 @@ body{
     height: 100vh;
     background-image: url(iMAGES/background.png);
     background-size:cover;
-    background-position: center;}
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
 
 .container{
     padding:00px 10%;
